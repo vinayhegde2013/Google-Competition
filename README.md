@@ -1,2 +1,2 @@
 # Google-Competition
-Includes problem asked in Google competation
+Includes problem asked in Google competition
